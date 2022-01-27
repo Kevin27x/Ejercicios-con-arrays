@@ -19,6 +19,7 @@ console.log(objetosDentroArreglo);
 console.log(yo);
 console.log(programa_web[2])+console.log(programa_web[4]);
 
+
 var arregloDentro = [
     ["1","2","3"],
     ["5","8","13"],
@@ -26,4 +27,9 @@ var arregloDentro = [
 ];
 //Arrays multidimensional. Se accede al objeto array de dimensión 2, con un corchete seguido del primero
 console.log(arregloDentro[0][1])
+console.log(arregloDentro.length)
+//asdasdasdasd
+console.log(arregloDentro.length)
+console.log(arregloDentro.length)
+console.log(arregloDentro.length)
 console.log(arregloDentro.length)
